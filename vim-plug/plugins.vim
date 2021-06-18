@@ -1,7 +1,6 @@
 call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'nvim-lua/popup.nvim'
 	Plug 'nvim-lua/plenary.nvim'
-	Plug 'nvim-telescope/telescope.nvim'
 	Plug 'sheerun/vim-polyglot'
 	Plug 'gruvbox-community/gruvbox'
 	Plug 'scrooloose/NERDTree'
