@@ -10,4 +10,5 @@ call plug#begin('~/.config/nvim/autoload/plugged')
 	Plug 'prettier/vim-prettier', { 'do': 'npm install' }
 	Plug 'nvim-lua/plenary.nvim'
 	Plug 'nvim-telescope/telescope.nvim'
+	Plug 'tpope/vim-fugitive'
 call plug#end()
